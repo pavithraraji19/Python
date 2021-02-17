@@ -1,0 +1,7 @@
+tuple=("lalala",1,2,"faz",'gogo')
+print(tuple)
+print(tuple.count(1))
+print(tuple.index("faz"))
+print("index" in tuple)
+print(tuple[1:4])
+print(tuple[-2])

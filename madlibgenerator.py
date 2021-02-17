@@ -1,0 +1,6 @@
+color=input("Enter the colour")
+adjectives=input("Enter the adjective")
+adverb=input("Enter the adverb")
+print("Roses are",color)
+print("Violets are ",adjectives)
+print("I",adverb,"you")
